@@ -1,4 +1,15 @@
 # Machine Learning Algorithms from Scratch with Python 
+<p align = 'center'>
+<a href = 'https://www.python.org/downloads/release/python-396/'>
+   <img src = 'https://img.shields.io/badge/python-v3.9-blue'>
+ </a>
+
+ <a href="https://github.com/orkunaran/ml_algorithms_from_scratch/issues">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/orkunaran/ml_algorithms_from_scratch">
+ </a>
+ 
+ <img src = 'https://badges.pufler.dev/visits/orkunaran/ml_algorithms_from_scratch'>
+<p>
 
 ## About
 
