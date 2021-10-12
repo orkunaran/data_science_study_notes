@@ -4,11 +4,11 @@
    <img src = 'https://img.shields.io/badge/python-v3.9-blue'>
  </a>
 
- <a href="https://github.com/orkunaran/ml_algorithms_from_scratch/issues">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/orkunaran/ml_algorithms_from_scratch">
+ <a href="https://github.com/orkunaran/data_science_study_notes/issues">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/orkunaran/data_science_study_notes">
  </a>
  
- <img src = 'https://badges.pufler.dev/visits/orkunaran/ml_algorithms_from_scratch'>
+ <img src = 'https://badges.pufler.dev/visits/orkunaran/data_science_study_notes'>
 <p>
 
 ## About
