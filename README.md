@@ -1,4 +1,4 @@
-# Machine Learning Algorithms from Scratch with Python 
+# Data Science Study notes for myself 
 <p align = 'center'>
 <a href = 'https://www.python.org/downloads/release/python-396/'>
    <img src = 'https://img.shields.io/badge/python-v3.9-blue'>
@@ -13,7 +13,7 @@
 
 ## About
 
-This is my approach to learn intiution behind the ML algorithms. The purpose of this repository is not build models with perfect performance or speed, but to build the algorithms and create a study notebook for myself.
+This is my approach to learn intiution behind the ML algorithms. The purpose of this repository is not build models with perfect performance or speed, but to build the algorithms and create a study notebook for myself. 
 
 I will update this notebook as I study on this. 
 
