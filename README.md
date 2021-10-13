@@ -20,4 +20,7 @@ I will update this notebook as I study on this.
 ## Notebooks
 
 1. [Linear Regression](https://github.com/orkunaran/ml_algorithms_from_scratch/blob/main/Linear%20Regression.ipynb) Date: 07.09.2021
+   
+2. [Decision Tree](https://github.com/orkunaran/data_science_study_notes/blob/main/Decision%20Tree%20Study%20Notes.ipynb) Date: 13.10.2021
+   
 
