@@ -23,4 +23,8 @@ I will update this notebook as I study on this.
    
 2. [Decision Tree](https://github.com/orkunaran/data_science_study_notes/blob/main/Decision%20Tree%20Study%20Notes.ipynb) Date: 13.10.2021
    
+3. [Logistic Regression](https://github.com/orkunaran/data_science_study_notes/blob/main/Logistic%20Regression.ipynb) Date: 14.10.2021
+   
+4. Support Vector Machines - in progress
+   
 
