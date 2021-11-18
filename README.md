@@ -1,4 +1,4 @@
-# Data Science Study notes for myself 
+# Data Science Study Notes
 <p align = 'center'>
 <a href = 'https://www.python.org/downloads/release/python-396/'>
    <img src = 'https://img.shields.io/badge/python-v3.9-blue'>
